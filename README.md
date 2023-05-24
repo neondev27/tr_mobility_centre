@@ -6,7 +6,7 @@ Pull request to request addition to *this* repository, make issue for a problem 
 
 -*For now, this repository is for web apps. We may let you add platform apps other than web apps at future.*
 
-Main language is English, because most of Turkish developers talks English.
+Main language is English, because most of Turkish developers talks English. 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
